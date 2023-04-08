@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl, no clothes,vaginal, sex,tentacle, stomach_bulge, bound_arms, bound_wrists, spreader_bar, transformation, large_insertion, breasts out, ahegao, blush, sweat, pussy, pussy juice, masturbation, handjob, no bra, no_panties, <lora:hutao:0.7>, hutao\(genshin\)
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,
+Steps: 40, Sampler: Euler a, CFG scale: 11, Seed: 324078458, Size: 512x768, Model hash: e4b17ce185, Model: anything-v4.5-pruned
